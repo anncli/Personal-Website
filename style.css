@@ -105,7 +105,6 @@ nav ul li a:hover::after{
     font-weight: 600;
     color: #fff;
 }
-
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
