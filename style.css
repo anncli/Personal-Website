@@ -146,6 +146,9 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
+.tab-contents a{
+    color: #ababab;
+}
 
 /* -----------projects------------ */
 #portfolio{
