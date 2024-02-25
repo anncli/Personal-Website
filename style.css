@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
     box-sizing: border-box;
 }
 body{
@@ -64,7 +64,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h1{
-    font-size: 70px;
+    font-size: 80px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -110,7 +110,7 @@ nav ul li a:hover::after{
 }
 .tab-titles{
     display: flex;
-    margin: 20px 0 40px;
+    margin: 20px 0 20px;
 }
 .tab-links{
     margin-right: 50px;
@@ -143,6 +143,15 @@ nav ul li a:hover::after{
     color: #b54769;
     font-size: 15px;
 }
+.education-contents{
+    list-style: none;
+    font-size: 15px;
+    font-style: italic;
+    margin-bottom: 0.5%;
+}
+.education-contents span{
+    font-style: normal;
+} 
 .tab-contents{
     display: none;
 }
