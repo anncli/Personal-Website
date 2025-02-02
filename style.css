@@ -25,7 +25,7 @@ body{
 }
 
 .tilted-image {
-    width: 525px; /* Adjust size */
+    width: 5px; /* Adjust size */
     padding-right: 100px;
 }
 
@@ -157,9 +157,10 @@ nav ul li a:hover::after{
 .tab-contents ul li{
     list-style: none;
     font-size: 17px;
-    margin: 10px 0;
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
-.tab-contents ul li span.company-name{
+.tab-contents ul li span.experience-header{
     font-size: 17px;
     font-weight: 645;
     color: #434448;
@@ -170,12 +171,11 @@ nav ul li a:hover::after{
 }
 .education-contents{
     list-style: none;
-    font-size: 15px;
-    font-style: italic;
+    font-size: 15.5px;
     margin-bottom: 0.5%;
 }
-.education-contents span{
-    font-style: normal;
+.education-contents strong{
+    font-weight: 600;
 } 
 .tab-contents{
     display: none;
