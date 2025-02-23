@@ -26,7 +26,9 @@ body{
 
 .tilted-image {
     width: 5px; /* Adjust size */
-    padding-right: 100px;
+    padding-right: 95px;
+    width: 550px;
+    height: auto;
 }
 
 nav{
